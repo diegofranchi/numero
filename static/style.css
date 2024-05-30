@@ -1,0 +1,19 @@
+/* app/static/style.css */
+
+body {
+    background-color: #f4f4f4;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+pre {
+    background: #333;
+    color: #f4f4f4;
+    padding: 20px;
+    white-space: pre-wrap; /* Wrap text */
+    word-wrap: break-word; /* Prevent overflow */
+    border-radius: 5px;
+}
